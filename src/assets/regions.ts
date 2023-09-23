@@ -426,4 +426,4 @@ const regions: Region[] = [
     }
 ]
 
-module.exports = regions
+export default regions;

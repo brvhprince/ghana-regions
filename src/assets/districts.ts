@@ -1830,4 +1830,4 @@ const districts: District[] = [
     }
 ]
 
-module.exports = districts
+export default districts;

@@ -1,0 +1,16 @@
+{
+  "name": "@brvhprince/ghana-regions",
+  "version": "1.0.0",
+  "description": "Regions, and their districts and captials in Ghana",
+  "main": "lib/index.js",
+  "repository": "https://github.com/brvhprince/termii-js#readme",
+  "author": "brvhprince <prince.akomea.stu@uenr.edu.gh>",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.4",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
